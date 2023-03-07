@@ -1,4 +1,4 @@
-![Image](safiev.png "photo")
+![Image](photo.jpg "photo")
 
 # Rashit Safiev
 
