@@ -11,27 +11,31 @@
 
 ## about
 
-Краткая информация о себе (ваша цель и приоритеты, подчеркните свои сильные стороны, расскажите о своём опыте работы, если опыта работы нет, расскажите о своём стремлении учиться и узнавать новое)
+I have extensive expirience in IT. Since 2005, I have been working in my speciality with Russian internal systems.
+I started working at a factory, programming in **Delphi+SQL**. Then I worked with the electronic document managment system "Directum" and "1C".
+And touched SAP, vba, php, python, etc a litle.
+Now there is a desire to professionally engage in **javascript**
 
 ## stack
 
 js, ts, nodejs, vscode, git, amala, koa, jwt, REST, jest
 
-## code
+## codewars
 
-Example code on codewars:
+### Example code on codewars:
+
 https://www.codewars.com/kata/reviews/564429e7fc3137d3a300009a/groups/64063ce88e78be000122c236
 
 ## project
 
 ### Complete several traning project:
 
-- git, github, markdown
-  https://github.com/capapa/rsschool-cv
-
 - add functionality working message (blog), add test REST API
   fork, pullrequest, ts, koa, amala, REST, jest
   https://github.com/capapa/backend-starter
+
+- git, github, markdown
+  https://github.com/capapa/rsschool-cv
 
 - chat on soket.io
   https://github.com/capapa/nodejs-chat-socket.io
