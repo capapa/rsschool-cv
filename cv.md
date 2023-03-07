@@ -26,6 +26,16 @@ js, ts, nodejs, vscode, git, amala, koa, jwt, REST, jest
 
 https://www.codewars.com/kata/reviews/564429e7fc3137d3a300009a/groups/64063ce88e78be000122c236
 
+```
+function findNextSquare(sq) {
+  const d = Math.sqrt(sq);
+  if (d === Math.round(d)) {
+    return (d + 1) * (d + 1);
+  }
+  return -1;
+}
+```
+
 ## project
 
 ### Complete several traning project:
